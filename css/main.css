@@ -1,0 +1,27 @@
+h1{
+  font-family:Georgia, serif;
+}
+p{
+  font-family:Calibri, sans-serif;
+    
+}
+.weather-forecast{
+  color:red;
+  min-width:500px;
+  max-width:800px;
+}
+
+.weather-forecast td {
+    
+    color: black;
+    font-weight: 400;
+}
+
+.weather-forecast table {
+    background-color: #FFF6EE;
+}
+
+footer {
+    padding-top: 1rem;
+    font-size: 12px;
+}
